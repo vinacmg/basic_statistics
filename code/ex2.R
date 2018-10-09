@@ -25,5 +25,5 @@ dv_amostral <- sd(ex2)
 
 #graficos
 png(filename = "graphics/ex2.png", width = 500, height = 500)
-hist(ex2, main="Histograma das aparições", ylab='Frequências')
+hist(ex2, main="Histograma das aparições", ylab='Frequências', col="cyan")
 dev.off()
