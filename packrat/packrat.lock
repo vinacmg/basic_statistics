@@ -18,6 +18,11 @@ Source: CRAN
 Version: 0.12.19
 Hash: fdff9c3aa69adac28cd5c45cd250c9da
 
+Package: WriteXLS
+Source: CRAN
+Version: 4.0.0
+Hash: 5b5392038bb8b600135916b28a670357
+
 Package: assertthat
 Source: CRAN
 Version: 0.2.0
@@ -109,6 +114,11 @@ Source: CRAN
 Version: 1.8.4
 Hash: d1f100e0dbbf8d3f55aa701b07c62e35
 Requires: Rcpp
+
+Package: qcc
+Source: CRAN
+Version: 2.7
+Hash: 4efb6b051e4092cf4a846aed9f20bb6e
 
 Package: readxl
 Source: CRAN
